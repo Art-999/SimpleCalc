@@ -1,0 +1,4 @@
+#Wed Feb 07 12:19:56 AMT 2018
+base.0=D\:\\Artur\\Android\\android-fundamentals-master\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex
